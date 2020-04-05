@@ -13,7 +13,7 @@ class Dog
   end
   
 
-
+steve = Dog.new
 steve.name = "Steve"
 steve.name
 
